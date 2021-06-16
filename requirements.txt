@@ -1,0 +1,6 @@
+streamlit==0.68.1
+pandas==0.25.3
+scikit-learn==0.22.1
+PyPDF2==1.26.0
+pdfplumber==0.5.28
+fitz==0.0.2.dev2
